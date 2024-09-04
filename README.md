@@ -1,4 +1,4 @@
-# NLP PROJECT- EVENT EXTRACTION
+# IR PROJECT- EVENT EXTRACTION
 ### Hyperparameters:
 - batch_size = 3
 - epochs = 1
